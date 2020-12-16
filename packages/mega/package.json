@@ -1,6 +1,6 @@
 {
   "name": "@lugia/mega",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "description": "Quickly create react apps. Based on @lugia/mega-scripts.",
   "main": "./lib/index.js",
   "publishConfig": {
